@@ -1,0 +1,47 @@
+<catalog>
+   <book id="bk101">
+      <author>
+     	<name>Nadia, Bim</name>
+      	<nationality>Russia</nationality>
+      	<awards>Nebula</awards>    
+      </author>
+      <title>XML Developer's Guide</title>
+      <genre>Computer</genre>
+      <price>44.95</price>
+      <publish_date>2000-10-01</publish_date>
+   </book>
+   <book id="bk102">
+      <author>
+      	<name>Ralls, Kim</name>
+      	<nationality>USA</nationality>
+      	<awards>Nebula</awards>      	
+     </author>
+      <title>Midnight Rain</title>
+      <genre>Fantasy</genre>
+      <price>5.95</price>
+      <publish_date>2000-12-16</publish_date>     
+   </book>
+   <book id="bk103">
+      <author>
+        <name>Nadia, Bim</name>
+      	<nationality>Russia</nationality>
+      	<awards>Nebula</awards>    
+      </author>
+      <title>Maeve Ascendant</title>
+      <genre>Fantasy</genre>
+      <price>5.95</price>
+      <publish_date>2000-11-17</publish_date>
+        </book>
+   <book id="bk104">
+     <author>
+     	<name>Nadia, Bim</name>
+      	<nationality>Russia</nationality>
+      	<awards>Nebula</awards>    
+      </author>
+      <title>Oberon's Legacy</title>
+      <genre>Fantasy</genre>
+      <price>5.95</price>
+      <publish_date>2001-03-10</publish_date>      
+   </book>
+  
+</catalog>

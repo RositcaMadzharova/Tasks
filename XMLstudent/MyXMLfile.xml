@@ -1,0 +1,39 @@
+<studentdetails>
+   <student id="01">
+      <address>
+     	<country>BG</country>
+      	<city>Sofia</city>
+      	<street>Gledka</street>
+      	<num>25</num>    
+      </address>
+      <fullname>Ivan Ivanov</fullname>
+      <course>Computer</course>
+      <college>Pernik Un</college>
+      <birthdate>2000-10-01</birthdate>
+  </student>
+  <student id="02">
+	<address>
+     	<country>BG</country>
+      	<city>Sofia</city>
+      	<street>Bagra</street>
+      	<num>6</num>    
+      </address>
+      <fullname>Georgi Georgiev</fullname>
+      <course>IT</course>
+      <college>Sofia Un</college>
+      <birthdate>1998-5-01</birthdate>
+  </student>
+   <student id="03">
+      <address>
+     	<country>BG</country>
+      	<city>Sofia</city>
+      	<street>Elsha</street>
+      	<num>12</num>    
+      </address>
+      <fullname>Petur Petrov</fullname>
+      <course>PR</course>
+      <college>Gabrovo Un</college>
+      <birthdate>1996-6-01</birthdate>
+  </student>
+  
+</studentdetails>

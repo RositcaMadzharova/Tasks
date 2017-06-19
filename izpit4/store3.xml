@@ -1,0 +1,24 @@
+
+<catalog>
+   <item>
+      <type>TV</type>
+      <brand>Sony</brand>
+      <model>T10</model>
+	  <quantity>30</quantity>
+      <priceitem>100</priceitem> 
+   </item>
+    <item>
+      <type>Monitor</type>
+      <brand>Panasonic</brand>
+      <model>M11</model>
+	  <quantity>30</quantity>
+      <priceitem>200</priceitem> 
+   </item>
+   <item>
+      <type>Player</type>
+      <brand>Toshiba</brand>
+      <model>P12</model>
+	  <quantity>30</quantity>
+      <priceitem>300</priceitem> 
+   </item>
+</catalog>
